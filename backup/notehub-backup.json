@@ -2,7 +2,7 @@
   "app": "NoteHub Nepal",
   "author": "alokpoddarbaishya",
   "website": "https://alokpoddarbaishya.com.np",
-  "syncedAt": "2026-08-22T04:08:27.062Z",
+  "syncedAt": "2026-08-22T04:27:54.106Z",
   "folders": [
     {
       "id": "default",
@@ -49,64 +49,10 @@
       "createdAtAD": "2026-08-21T18:25:06.642Z",
       "createdAtBS": "२०८३ भदौ ६, शनिबार",
       "createdAtBSEnglish": "Bhadra 6, 2083 BS, Saturday",
-      "updatedAtAD": "2026-08-22T04:07:29.406Z",
+      "updatedAtAD": "2026-08-22T04:27:42.766Z",
       "updatedAtBS": "२०८३ भदौ ६, शनिबार",
       "updatedAtBSEnglish": "Bhadra 6, 2083 BS, Saturday",
-      "version": 2
-    },
-    {
-      "id": "note_1787336343131_pulm5",
-      "title": "next try no 2",
-      "content": "next try number 2",
-      "tags": [],
-      "folderId": "default",
-      "color": "#ffffff",
-      "pinned": false,
-      "isTrash": false,
-      "reminder": null,
-      "createdAtAD": "2026-08-21T18:19:03.130Z",
-      "createdAtBS": "२०८३ भदौ ६, शनिबार",
-      "createdAtBSEnglish": "Bhadra 6, 2083 BS, Saturday",
-      "updatedAtAD": "2026-08-22T04:07:29.398Z",
-      "updatedAtBS": "२०८३ भदौ ६, शनिबार",
-      "updatedAtBSEnglish": "Bhadra 6, 2083 BS, Saturday",
-      "version": 11
-    },
-    {
-      "id": "note_1787336119700_rfa1m",
-      "title": "Welcome to NoteHub Nepal / नोटहब नेपालमा स्वागत छ",
-      "content": "<h2>नमस्ते र NoteHub मा स्वागत छ! 🇳🇵✨</h2>\n<p>NoteHub is your full-featured Nepali &amp; English offline-first, cloud-synced notepad.</p>\n<hr>\n<h3>🔥 Highlight Features:</h3>\n<div class=\"task-item flex items-center gap-2 my-1\"><input type=\"checkbox\" checked class=\"w-4 h-4 rounded text-indigo-600 focus:ring-indigo-500 cursor-pointer\"><span class=\"task-text\"><b>📁 Folder Organization:</b> Categorize notes into Work, Personal, Study, or custom folders!</span></div>\n<div class=\"task-item flex items-center gap-2 my-1\"><input type=\"checkbox\" checked class=\"w-4 h-4 rounded text-indigo-600 focus:ring-indigo-500 cursor-pointer\"><span class=\"task-text\"><b>⬇️ Multi-Format Downloads:</b> Export as Plain Text (.txt), Markdown (.md), HTML (.html), Word (.doc), or PDF (.pdf)!</span></div>\n<div class=\"task-item flex items-center gap-2 my-1\"><input type=\"checkbox\" checked class=\"w-4 h-4 rounded text-indigo-600 focus:ring-indigo-500 cursor-pointer\"><span class=\"task-text\"><b>📲 PWA Installable:</b> Install on Android, iPhone (iOS), and Desktop for native app feel.</span></div>\n<div class=\"task-item flex items-center gap-2 my-1\"><input type=\"checkbox\" checked class=\"w-4 h-4 rounded text-indigo-600 focus:ring-indigo-500 cursor-pointer\"><span class=\"task-text\"><b>Right-click copy to note:</b> Select any text in the browser and right click to copy directly to your note!</span></div>\n<div class=\"task-item flex items-center gap-2 my-1\"><input type=\"checkbox\" checked class=\"w-4 h-4 rounded text-indigo-600 focus:ring-indigo-500 cursor-pointer\"><span class=\"task-text\"><b>Nepali Romanized Typing:</b> Click \"नेपाली\" toggle on top and type \"namaste\" to get \"नमस्ते\"!</span></div>\n<div class=\"task-item flex items-center gap-2 my-1\"><input type=\"checkbox\" checked class=\"w-4 h-4 rounded text-indigo-600 focus:ring-indigo-500 cursor-pointer\"><span class=\"task-text\"><b>AD ⇄ BS Date Converter:</b> Convert dates both ways and insert them into notes with 1 click.</span></div>\n<div class=\"task-item flex items-center gap-2 my-1\"><input type=\"checkbox\" checked class=\"w-4 h-4 rounded text-indigo-600 focus:ring-indigo-500 cursor-pointer\"><span class=\"task-text\"><b>Multi-Device Cloud Sync:</b> Share Room Code <span style=\"background-color: #fef08a\"><b>alok</b></span> across your mobile &amp; laptop for instant sync!</span></div>\n<div class=\"task-item flex items-center gap-2 my-1\"><input type=\"checkbox\" checked class=\"w-4 h-4 rounded text-indigo-600 focus:ring-indigo-500 cursor-pointer\"><span class=\"task-text\"><b>Multiple Themes:</b> Choose between Light, Dark, Forest Emerald, Ocean Blue, Sunset, Lavender, and Sepia.</span></div>\n<br>\n<blockquote>\"योजना बिनाको लक्ष्य केवल एउटा चाहना मात्र हो।\" — Start writing your thoughts!</blockquote>",
-      "tags": [],
-      "folderId": "default",
-      "color": "#ffffff",
-      "pinned": false,
-      "isTrash": false,
-      "reminder": null,
-      "createdAtAD": "2026-08-21T18:15:19.700Z",
-      "createdAtBS": "२०८३ भदौ ६, शनिबार",
-      "createdAtBSEnglish": "Bhadra 6, 2083 BS, Saturday",
-      "updatedAtAD": "2026-08-22T04:07:29.352Z",
-      "updatedAtBS": "२०८३ भदौ ६, शनिबार",
-      "updatedAtBSEnglish": "Bhadra 6, 2083 BS, Saturday",
-      "version": 2
-    },
-    {
-      "id": "note_1787335633536_o4luj",
-      "title": "mobile version ",
-      "content": "alok123<br>4568910",
-      "tags": [],
-      "folderId": "default",
-      "color": "#ffffff",
-      "pinned": false,
-      "isTrash": false,
-      "reminder": null,
-      "createdAtAD": "2026-08-21T18:07:13.536Z",
-      "createdAtBS": "२०८३ भदौ ५, शुक्रबार",
-      "createdAtBSEnglish": "Bhadra 5, 2083 BS, Friday",
-      "updatedAtAD": "2026-08-22T04:07:29.345Z",
-      "updatedAtBS": "२०८३ भदौ ६, शनिबार",
-      "updatedAtBSEnglish": "Bhadra 6, 2083 BS, Saturday",
-      "version": 21
+      "version": 3
     },
     {
       "id": "note_1787335983861_xelrt",
@@ -121,10 +67,28 @@
       "createdAtAD": "2026-08-21T18:13:03.861Z",
       "createdAtBS": "२०८३ भदौ ५, शुक्रबार",
       "createdAtBSEnglish": "Bhadra 5, 2083 BS, Friday",
-      "updatedAtAD": "2026-08-22T04:07:29.287Z",
+      "updatedAtAD": "2026-08-22T04:27:42.759Z",
       "updatedAtBS": "२०८३ भदौ ६, शनिबार",
       "updatedAtBSEnglish": "Bhadra 6, 2083 BS, Saturday",
-      "version": 11
+      "version": 12
+    },
+    {
+      "id": "note_1787335633536_o4luj",
+      "title": "mobile version ",
+      "content": "<br>",
+      "tags": [],
+      "folderId": "default",
+      "color": "#ffffff",
+      "pinned": false,
+      "isTrash": false,
+      "reminder": null,
+      "createdAtAD": "2026-08-21T18:07:13.536Z",
+      "createdAtBS": "२०८३ भदौ ५, शुक्रबार",
+      "createdAtBSEnglish": "Bhadra 5, 2083 BS, Friday",
+      "updatedAtAD": "2026-08-22T04:27:42.746Z",
+      "updatedAtBS": "२०८३ भदौ ६, शनिबार",
+      "updatedAtBSEnglish": "Bhadra 6, 2083 BS, Saturday",
+      "version": 14
     }
   ]
 }
